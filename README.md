@@ -59,7 +59,7 @@ I enjoy building scalable backend applications using **Java, Spring Boot, Hibern
 ## 🏆 Achievements
 
 - 🥇 **TCS CodeVita Grand Finalist** — Global Rank **1861**
-- 💡 Built a **Spring Boot Employee Management System** with Role-Based Authentication
+- 💡 Built a **Spring Boot MyShopSphere** with Role-Based Authentication
 - 📚 Completed **160+ Days of DSA Practice in Java**
 
 ---
